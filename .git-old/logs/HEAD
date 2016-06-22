@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 1f577f4c7b99a4f645c617c3e8862b066d245a43 Kevin Chao <kevin.chao@mail.utoronto.ca> 1466536819 -0400	commit (initial): First commit with Devise
+1f577f4c7b99a4f645c617c3e8862b066d245a43 1f577f4c7b99a4f645c617c3e8862b066d245a43 Kevin Chao <kevin.chao@mail.utoronto.ca> 1466536877 -0400	checkout: moving from master to master
+1f577f4c7b99a4f645c617c3e8862b066d245a43 1f577f4c7b99a4f645c617c3e8862b066d245a43 Kevin Chao <kevin.chao@mail.utoronto.ca> 1466536882 -0400	checkout: moving from master to add-users
+1f577f4c7b99a4f645c617c3e8862b066d245a43 e75b2290b77cecb9dc37697c8b0267cd4e7c6726 Kevin Chao <kevin.chao@mail.utoronto.ca> 1466540680 -0400	commit: Add User MVC and Devise
+e75b2290b77cecb9dc37697c8b0267cd4e7c6726 1f577f4c7b99a4f645c617c3e8862b066d245a43 Kevin Chao <kevin.chao@mail.utoronto.ca> 1466540707 -0400	checkout: moving from add-users to master
+1f577f4c7b99a4f645c617c3e8862b066d245a43 e75b2290b77cecb9dc37697c8b0267cd4e7c6726 Kevin Chao <kevin.chao@mail.utoronto.ca> 1466540718 -0400	merge add-users: Fast-forward
+e75b2290b77cecb9dc37697c8b0267cd4e7c6726 0ebed1313a18024ee9c1fe5ea92b6c6fc253c4e1 Kevin Chao <kevin.chao@mail.utoronto.ca> 1466540842 -0400	commit: Add BootStrap gems
+0ebed1313a18024ee9c1fe5ea92b6c6fc253c4e1 0ebed1313a18024ee9c1fe5ea92b6c6fc253c4e1 Kevin Chao <kevin.chao@mail.utoronto.ca> 1466540851 -0400	checkout: moving from master to master
+0ebed1313a18024ee9c1fe5ea92b6c6fc253c4e1 7c5de0a94d81d997c91ed631aefb6cdbd52401ae Kevin Chao <kevin.chao@mail.utoronto.ca> 1466542834 -0400	commit: Fix minor changes
+7c5de0a94d81d997c91ed631aefb6cdbd52401ae 7c5de0a94d81d997c91ed631aefb6cdbd52401ae Kevin Chao <kevin.chao@mail.utoronto.ca> 1466542865 -0400	checkout: moving from master to master
+7c5de0a94d81d997c91ed631aefb6cdbd52401ae 7c5de0a94d81d997c91ed631aefb6cdbd52401ae Kevin Chao <kevin.chao@mail.utoronto.ca> 1466542893 -0400	checkout: moving from master to add-clubhouse-home
+7c5de0a94d81d997c91ed631aefb6cdbd52401ae 16a472457036af1633d05dfc8493b127dfdb889e Kevin Chao <kevin.chao@mail.utoronto.ca> 1466544324 -0400	commit: Add Home, About and Log in/out links
+16a472457036af1633d05dfc8493b127dfdb889e 7c5de0a94d81d997c91ed631aefb6cdbd52401ae Kevin Chao <kevin.chao@mail.utoronto.ca> 1466544335 -0400	checkout: moving from add-clubhouse-home to master
+7c5de0a94d81d997c91ed631aefb6cdbd52401ae 16a472457036af1633d05dfc8493b127dfdb889e Kevin Chao <kevin.chao@mail.utoronto.ca> 1466544342 -0400	merge add-clubhouse-home: Fast-forward
